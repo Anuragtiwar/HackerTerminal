@@ -5,16 +5,16 @@ let AllMessages=[
     "Searching UserName...",
     `User Name found for ${UserName}`,
     "Serching for the files",
-    "Password detect",
+    "Password detected",
     `Running "WINDWOS SECURITY DISABLE" module`,
     "Trying Brute Force Method",
-    "Try Faild",
+    "Try Faild !",
     "Restablish the Connection",
     "Connection Succeed!",
     "initiating Ransomware Tool ",
     "Say Good bye to your personal files !",
     "Cleaning Up Syste 32 bit file...",
-    `Congratulations ${UserName} for being Successfully hacked`,
+    `Congratulations ${UserName} for being Successfully hacked !`,
 ]
 
 const sleep= async(seconds)=>{
