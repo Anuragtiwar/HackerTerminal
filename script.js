@@ -6,7 +6,7 @@ let AllMessages=[
     `User Name found for ${UserName}`,
     "Serching for the files",
     "Password detect",
-    "Running windows security disable module",
+    `Running "WINDWOS SECURITY DISABLE" module`,
     "Trying Brute Force Method",
     "Try Faild",
     "Restablish the Connection",
